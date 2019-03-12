@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8D96AB6F-DB1E-6AF6-B5B3-91CB8AF9E004}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Desktop/Medialogy/6th Semester/Artificial Intelligence/Steering/Seek&amp;Flee/Assets/Assignment 1/UnitSteering1.cs">
+    <Files>
+      <File FileName="../../../../Desktop/Medialogy/6th Semester/Artificial Intelligence/Lecture2Unity/Zombie Ai Course/Assets/ZombieAi.cs" Line="36" Column="27" />
+      <File FileName="../../../../Desktop/Medialogy/6th Semester/Artificial Intelligence/Steering/Seek&amp;Flee/Assets/Assignment 1/UnitSteering1.cs" Line="56" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
